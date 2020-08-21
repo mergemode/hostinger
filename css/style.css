@@ -1,0 +1,172 @@
+body, html {
+    background-color: rgb(249, 249, 250);
+    height: 100vh;
+}
+
+.container-fluid {
+    background-color: rgb(25, 17, 61);
+    height: 100px;
+}
+.nav-link {
+    color: rgba(255, 255, 255, 0.623);
+}
+.nav-item {
+    float: left;
+}
+.row1 {
+    
+    margin-bottom: 20px;
+}
+
+
+
+.btn button {
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    background-color: rgb(25, 17, 61);
+    border-radius: 5px;
+    padding: 4px 6px; 
+    margin-top: 20px;
+}
+.btn {
+    padding: 0 40px;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    padding: 0px 0px 0px 40px;
+}
+
+.active .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.list {
+    background-color: white;
+    padding-left: 10px;
+}
+
+.use-container{
+    box-shadow: 0 0 3px  rgb(181, 179, 190);
+    margin-left: 30px;
+    width: 220px;
+    border-style: none;
+}
+
+.li {
+    max-width: 200px;
+    padding-top: 10px;
+}
+.progress, .progress-bar {
+    width: 170px;
+}
+
+
+.allsection {
+    float: left;
+}
+
+.wordpress {
+    width: 260px;
+    height: 260px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.wordpress1 {
+    width: 230px;
+    height: 200px;
+    border-style: none;
+    margin: 0 25px;
+    padding: 35px 20px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 4px rgb(181, 179, 190);
+}
+.wordpress1:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 4px blue;
+}
+.wordpresstop{
+    margin-bottom: 10px;
+    margin-right: 3px
+}
+.top {
+    margin-left: 26px;
+}
+
+
+.order {
+    width: 260px;
+    height: 260px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.orderusage {
+    width: 230px;
+    height: 200px;
+    border-style: none;
+    margin: 0 25px;
+    padding: 35px 20px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 4px  rgb(181, 179, 190);
+}
+.orderusage:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 4px blue;
+}
+.ordertop {
+    margin-bottom: 8px;
+    margin-right: 3px
+}
+.top {
+    margin-left: 26px;
+}
+
+.order {
+    float: left
+}
+.adjust {
+    margin-left: 1px;
+    margin-top: 48px;
+}
+
+
+.accounts {
+    width: 260px;
+    height: 260px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.details {
+    width: 230px;
+    height: 200px;
+    border-style: none;
+    margin: 0 25px;
+    padding: 35px 20px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 0px 4px  rgb(181, 179, 190);
+}
+.details:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 4px blue;
+}
+.accountstop {
+    margin-bottom: 8px;
+    margin-right: 3px
+}
+.top {
+    margin-left: 26px;
+}
+
+.reset {
+    float: left;
+    margin-top: 5px;
+}
+.change {
+    margin-left: 0em;
+    margin-top: 34px;
+}
+
